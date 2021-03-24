@@ -1,0 +1,104 @@
+body {
+background-image: url("background.jpg");background-repeat: no-repeat; background-attachment: fixed; background-size: cover;
+  background-color: gray;
+  font-family: verdana;
+} 
+
+hr{ 
+  height: 3px;
+  color: white;
+  background-color: white;
+  border: none;
+}
+
+h1 {
+  color: white;
+  padding: 10px;
+  margin: 20px;
+}
+
+
+h2 {
+  color: white;
+} 
+
+h3 {
+  color: white;
+}
+
+topnav {
+	 margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: white;
+}
+
+
+p  {
+text-align: center; 
+  color: white;
+}
+
+table, th, td {
+	color: white; 
+	background-color:black; 
+	border: 3px solid #2E4053;
+	border-collapse: collapse;
+}
+
+th, td{
+padding: 15px;
+} 
+
+th {
+	text-align:left; 
+} 
+
+a:link {
+  color: white;
+  background-color: transparent;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+	width: 1500px
+	}
+	
+
+
+  
